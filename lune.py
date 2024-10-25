@@ -2,7 +2,7 @@ import tkinter as tk
 from PIL import Image, ImageTk
 import ephem
 import datetime
-
+import os
 def get_moon_phase_and_times():
     """
     Daniel Cette fonction retourne la phase de la lune, l'heure de lever, l'heure de coucher et l'âge de la lune.
