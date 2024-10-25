@@ -29,7 +29,7 @@ def git_push(repo_path, commit_message):
         print(f"Une erreur s'est produite : {str(e)}")
 
 # Utilisation
-repo_path = "/users/danielcallebaut/bookmarkpy"
+repo_path = ""
 commit_message = "Mise à jour automatique"
 
 git_push(repo_path, commit_message)
