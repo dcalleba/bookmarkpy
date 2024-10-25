@@ -5,7 +5,7 @@ import datetime
 
 def get_moon_phase_and_times():
     """
-    Cette fonction retourne la phase de la lune, l'heure de lever, l'heure de coucher et l'âge de la lune.
+    Daniel Cette fonction retourne la phase de la lune, l'heure de lever, l'heure de coucher et l'âge de la lune.
     """
     observer = ephem.Observer()
     observer.lat = '48.8566'  # Latitude de Paris
