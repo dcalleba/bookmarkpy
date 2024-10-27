@@ -1,4 +1,5 @@
 import os
+#daniel
 
 def create_gitignore():
     # Spécifier le chemin du répertoire courant
