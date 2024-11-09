@@ -5,7 +5,8 @@ import datetime
 import os
 def get_moon_phase_and_times():
     """
-    Daniel Cal Cette fonction retourne la phase de la lune, l'heure de lever, l'heure de coucher et l'âge de la lune.
+    Daniel Cal pip install auto-py-to-exe
+Cette fonction retourne la phase de la lune, l'heure de lever, l'heure de coucher et l'âge de la lune.
     """
     observer = ephem.Observer()
     observer.lat = '48.8566'  # Latitude de Paris

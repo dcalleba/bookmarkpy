@@ -1,0 +1,18 @@
+2024-11-07 18:56:15,518 - INFO - Début de la comparaison entre:
+Dossier 1: /users/danielcallebaut/desktop/obsimind
+Dossier 2: /users/danielcallebaut/desktop/obsimind_imgcomp
+2024-11-07 18:56:16,299 - INFO - 
+=== Statistiques de la comparaison ===
+2024-11-07 18:56:16,299 - INFO - Nombre total de fichiers .md dans le dossier 1: 4640
+2024-11-07 18:56:16,299 - INFO - Nombre total de fichiers .md dans le dossier 2: 4640
+2024-11-07 18:56:16,300 - INFO - Taille totale des fichiers .md dans le dossier 1: 22,961 Ko
+2024-11-07 18:56:16,300 - INFO - Taille totale des fichiers .md dans le dossier 2: 22,962 Ko
+2024-11-07 18:56:16,300 - INFO - Fichiers manquants dans le dossier 2: 0
+2024-11-07 18:56:16,300 - INFO - Fichiers manquants dans le dossier 1: 0
+2024-11-07 18:56:16,300 - INFO - Fichiers avec des tailles différentes: 1
+2024-11-07 18:56:16,300 - INFO - 
+=== Statistiques des fichiers vides ===
+2024-11-07 18:56:16,300 - INFO - Fichiers vides dans le dossier 1: 1848
+2024-11-07 18:56:16,300 - INFO - Fichiers vides dans le dossier 2: 1847
+2024-11-07 18:56:16,300 - INFO - Fichiers vides uniquement dans dir1: 1
+2024-11-07 18:56:16,300 - INFO - Fichiers vides uniquement dans dir2: 0
