@@ -1,0 +1,77 @@
+2024-11-10 09:27:52,837 - INFO - Début de l'analyse des différences
+2024-11-10 09:27:54,118 - INFO - Nombre de différences trouvées: 51
+2024-11-10 09:27:54,118 - DEBUG - Traitement de la différence: Différence de taille: Beginner’s Guide To Python Automation Scripts (With Code Examples).md (30733 octets dans /users/danielcallebaut/desktop/obsimind, 30735 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,118 - DEBUG - Traitement de la différence: Différence de taille: Liens__perdus--dataview.md (182 octets dans /users/danielcallebaut/desktop/obsimind, 146 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,118 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: Clippings/DIY Jig The First Thing You Should Build.md
+2024-11-10 09:27:54,119 - DEBUG - Action de copie ajoutée pour: Clippings/DIY Jig The First Thing You Should Build.md
+2024-11-10 09:27:54,119 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: Clippings/Why pay for Notion’s AI.md
+2024-11-10 09:27:54,119 - DEBUG - Action de copie ajoutée pour: Clippings/Why pay for Notion’s AI.md
+2024-11-10 09:27:54,119 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: Clippings/Exploring the Obsidian Mobile Experience.md
+2024-11-10 09:27:54,119 - DEBUG - Action de copie ajoutée pour: Clippings/Exploring the Obsidian Mobile Experience.md
+2024-11-10 09:27:54,119 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: Clippings/Has Anthropic Claude just wiped out.md
+2024-11-10 09:27:54,119 - DEBUG - Action de copie ajoutée pour: Clippings/Has Anthropic Claude just wiped out.md
+2024-11-10 09:27:54,119 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: Clippings/Recette bûche framboise citron facile.md
+2024-11-10 09:27:54,119 - DEBUG - Action de copie ajoutée pour: Clippings/Recette bûche framboise citron facile.md
+2024-11-10 09:27:54,119 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: Clippings/Reasons Why People Love Obsidian Is It Worth the Hype.md
+2024-11-10 09:27:54,119 - DEBUG - Action de copie ajoutée pour: Clippings/Reasons Why People Love Obsidian Is It Worth the Hype.md
+2024-11-10 09:27:54,119 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: Clippings/Cave à vin.md
+2024-11-10 09:27:54,119 - DEBUG - Action de copie ajoutée pour: Clippings/Cave à vin.md
+2024-11-10 09:27:54,119 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: Clippings/12 Production-Grade Python Code Styles I’ve Picked Up From Work.md
+2024-11-10 09:27:54,120 - DEBUG - Action de copie ajoutée pour: Clippings/12 Production-Grade Python Code Styles I’ve Picked Up From Work.md
+2024-11-10 09:27:54,120 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: Clippings/Top 10 Open Source GitHub Copilot Alternatives (2024 Version).md
+2024-11-10 09:27:54,120 - DEBUG - Action de copie ajoutée pour: Clippings/Top 10 Open Source GitHub Copilot Alternatives (2024 Version).md
+2024-11-10 09:27:54,120 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: Clippings/Eglise Saint-Pierre de Caen - Caen Horaires de Messe.md
+2024-11-10 09:27:54,120 - DEBUG - Action de copie ajoutée pour: Clippings/Eglise Saint-Pierre de Caen - Caen Horaires de Messe.md
+2024-11-10 09:27:54,120 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: Clippings/Top 5 Latest Tools for Developing Software Quickly in 2025.md
+2024-11-10 09:27:54,120 - DEBUG - Action de copie ajoutée pour: Clippings/Top 5 Latest Tools for Developing Software Quickly in 2025.md
+2024-11-10 09:27:54,120 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: Clippings/Google’s Imagen 3.md
+2024-11-10 09:27:54,120 - DEBUG - Action de copie ajoutée pour: Clippings/Google’s Imagen 3.md
+2024-11-10 09:27:54,120 - DEBUG - Traitement de la différence: Différence de taille: Clippings/Obsidian Plugins Review — 80.md (11282 octets dans /users/danielcallebaut/desktop/obsimind, 11283 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,120 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: Clippings/Comment cuisiner le paleron de bœuf.md
+2024-11-10 09:27:54,120 - DEBUG - Action de copie ajoutée pour: Clippings/Comment cuisiner le paleron de bœuf.md
+2024-11-10 09:27:54,120 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: Clippings/Zotero Votre assistant de recherche personnel.md
+2024-11-10 09:27:54,121 - DEBUG - Action de copie ajoutée pour: Clippings/Zotero Votre assistant de recherche personnel.md
+2024-11-10 09:27:54,121 - DEBUG - Traitement de la différence: Différence de taille: Nexus AI Chat Imports/2023/10/2023-10-29 - Utilisation des classes Python.md (3843 octets dans /users/danielcallebaut/desktop/obsimind, 3818 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,121 - DEBUG - Traitement de la différence: Différence de taille: Nexus AI Chat Imports/2023/12/2023-12-01 - Creation de classe Python.md (42531 octets dans /users/danielcallebaut/desktop/obsimind, 42529 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,121 - DEBUG - Traitement de la différence: Différence de taille: Nexus AI Chat Imports/2023/12/2023-12-27 - Requete DataView Tags Python.md (13465 octets dans /users/danielcallebaut/desktop/obsimind, 13426 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,121 - DEBUG - Traitement de la différence: Différence de taille: Restaurants/Resto__Le_train_bleu--Paris.md (344 octets dans /users/danielcallebaut/desktop/obsimind, 397 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,121 - DEBUG - Traitement de la différence: Différence de taille: Restaurants/Resto__Le Prieuré.sync-conflict-20241027-213351-THMNNXQ.md (4677 octets dans /users/danielcallebaut/desktop/obsimind, 4730 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,121 - DEBUG - Traitement de la différence: Différence de taille: Omnivore/2024-08-02/La gestion des tâches redéfinie avec Obsidian - par Cody Burleson - Medium.sync-conflict-20241027-213352-THMNNXQ.md (20157 octets dans /users/danielcallebaut/desktop/obsimind, 20118 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,121 - DEBUG - Traitement de la différence: Différence de taille: New/Dataview__baca.md (1574 octets dans /users/danielcallebaut/desktop/obsimind, 1565 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,121 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: New/Vincent_villes2050.md
+2024-11-10 09:27:54,121 - DEBUG - Action de copie ajoutée pour: New/Vincent_villes2050.md
+2024-11-10 09:27:54,121 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: New/Bougie_led_AA.md
+2024-11-10 09:27:54,121 - DEBUG - Action de copie ajoutée pour: New/Bougie_led_AA.md
+2024-11-10 09:27:54,121 - DEBUG - Traitement de la différence: Différence de taille: New/Syncthing_android_ecran.md (138 octets dans /users/danielcallebaut/desktop/obsimind, 113 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,121 - DEBUG - Traitement de la différence: Différence de taille: New/New_dataview.md (574 octets dans /users/danielcallebaut/desktop/obsimind, 538 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,121 - DEBUG - Traitement de la différence: Différence de taille: New/Obsidian_plugins 240123203638.md (9068 octets dans /users/danielcallebaut/desktop/obsimind, 9069 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,121 - DEBUG - Traitement de la différence: Différence de taille: New/Obsidian__dataview--mydoc.md (1690 octets dans /users/danielcallebaut/desktop/obsimind, 1669 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,121 - DEBUG - Traitement de la différence: Différence de taille: New/Images__size.md (772 octets dans /users/danielcallebaut/desktop/obsimind, 777 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,121 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: New/Recherche_mot--sanstags.md
+2024-11-10 09:27:54,122 - DEBUG - Action de copie ajoutée pour: New/Recherche_mot--sanstags.md
+2024-11-10 09:27:54,122 - DEBUG - Traitement de la différence: Différence de taille: New/Revue des plugins Obsidian — 17. Revue hebdomadaire des plugins Obsidian  de Nuno Campos  Succès technologiques  avril 2023  Moyen.md (10308 octets dans /users/danielcallebaut/desktop/obsimind, 10292 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,122 - DEBUG - Traitement de la différence: Différence de taille: New/use_dataview.md (228 octets dans /users/danielcallebaut/desktop/obsimind, 190 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,122 - DEBUG - Traitement de la différence: Différence de taille: New/TODO.md (340 octets dans /users/danielcallebaut/desktop/obsimind, 304 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,122 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: New/mon test.md
+2024-11-10 09:27:54,122 - DEBUG - Action de copie ajoutée pour: New/mon test.md
+2024-11-10 09:27:54,122 - DEBUG - Traitement de la différence: Différence de taille: New/Obsidian Plugins Review. My Weekly review of new Obsidian…  by Nuno Campos  Technology Hits  Medium.md (8564 octets dans /users/danielcallebaut/desktop/obsimind, 8555 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,122 - DEBUG - Traitement de la différence: Différence de taille: New/Dataview__bacasable.md (1512 octets dans /users/danielcallebaut/desktop/obsimind, 1503 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,122 - DEBUG - Traitement de la différence: Différence de taille: New/Ma configuration d'obsidienne (Partie 27) - Suivi des habitudes  de Nuno Campos  Succès technologiques  Moyen.md (7214 octets dans /users/danielcallebaut/desktop/obsimind, 7205 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,122 - DEBUG - Traitement de la différence: Différence de taille: New/Dataview__contains.md (1510 octets dans /users/danielcallebaut/desktop/obsimind, 1501 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,122 - DEBUG - Traitement de la différence: Différence de taille: New/Dataview snippets.md (218 octets dans /users/danielcallebaut/desktop/obsimind, 209 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,122 - DEBUG - Traitement de la différence: Différence de taille: New/Ma configuration d'obsidienne - Notes quotidiennes, journalisation et suivi des habitudes  de Nuno Campos  Observateur d'obsidienne  mai 2023  Moyen.md (17718 octets dans /users/danielcallebaut/desktop/obsimind, 17709 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,122 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: New/Roulet__maintenance--20231005.md
+2024-11-10 09:27:54,122 - DEBUG - Action de copie ajoutée pour: New/Roulet__maintenance--20231005.md
+2024-11-10 09:27:54,122 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: New/Roulet__Mac16--m3--20240504.md
+2024-11-10 09:27:54,122 - DEBUG - Action de copie ajoutée pour: New/Roulet__Mac16--m3--20240504.md
+2024-11-10 09:27:54,122 - DEBUG - Traitement de la différence: Différence de taille: New/Obsidian__dataview--myexemple.md (1286 octets dans /users/danielcallebaut/desktop/obsimind, 1268 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,122 - DEBUG - Traitement de la différence: Différence de taille: New/Obsidian__tag--myexemple.md (914 octets dans /users/danielcallebaut/desktop/obsimind, 896 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,123 - DEBUG - Traitement de la différence: Présent dans dir1, absent dans dir2: .trash/jacques_boud.md
+2024-11-10 09:27:54,123 - DEBUG - Action de copie ajoutée pour: .trash/jacques_boud.md
+2024-11-10 09:27:54,123 - DEBUG - Traitement de la différence: Différence de taille: obsidian/Revue des plugins Obsidian — 17. Revue hebdomadaire des plugins Obsidian  de Nuno Campos  Succès technologiques  avril 2023  Moyen.md (10308 octets dans /users/danielcallebaut/desktop/obsimind, 10292 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,123 - DEBUG - Traitement de la différence: Différence de taille: obsidian/Obsidian Plugins Review. My Weekly review of new Obsidian…  by Nuno Campos  Technology Hits  Medium.md (8564 octets dans /users/danielcallebaut/desktop/obsimind, 8555 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,123 - DEBUG - Traitement de la différence: Différence de taille: obsidian/Ma configuration d'obsidienne (Partie 27) - Suivi des habitudes  de Nuno Campos  Succès technologiques  Moyen.md (7214 octets dans /users/danielcallebaut/desktop/obsimind, 7205 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,123 - DEBUG - Traitement de la différence: Différence de taille: obsidian/Ma configuration d'obsidienne - Notes quotidiennes, journalisation et suivi des habitudes  de Nuno Campos  Observateur d'obsidienne  mai 2023  Moyen.md (17718 octets dans /users/danielcallebaut/desktop/obsimind, 17709 octets dans /users/danielcallebaut/desktop/obsimind_imgcomp)
+2024-11-10 09:27:54,123 - INFO - Nombre total d'actions proposées: 21
+2024-11-10 09:28:15,784 - INFO - Début de l'exécution des actions. Nombre d'actions: 0
+2024-11-10 09:28:15,785 - INFO - Toutes les actions ont été exécutées avec succès
