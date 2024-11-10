@@ -21,13 +21,19 @@ class DirectoryComparer:
         self.dir2 = dir2
         
         if enable_logging:
+            log_filename = f"directory_comparison_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
             logging.basicConfig(
                 level=logging.INFO,
                 format='%(asctime)s - %(levelname)s - %(message)s',
-                filename=f"directory_comparison_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
+                handlers=[
+                    logging.FileHandler(log_filename),
+                    logging.StreamHandler()  # Ajout du handler console
+                ]
             )
         else:
             logging.disable(logging.CRITICAL)
+        
+        
 
     def compare_directories(self) -> List[str]:
         """
