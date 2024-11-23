@@ -1,4 +1,9 @@
 import tkinter as tk
+    """"""_summary_"""
+
+    Returns:
+        _type_: _description_
+    """
 from PIL import Image, ImageTk
 import ephem
 import datetime

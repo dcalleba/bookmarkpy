@@ -5,6 +5,7 @@ from datetime import datetime
 import unittest
 from typing import List
 
+
 class DirectoryComparer:
     """Classe pour comparer les fichiers .md entre deux répertoires."""
     

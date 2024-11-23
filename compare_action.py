@@ -14,6 +14,7 @@ class FileAction:
     relative_path: str
     target_dir: str  # 'dir1' ou 'dir2'
 
+
 class FileManager:
     def __init__(self, dir1: str, dir2: str, enable_logging: bool = True):
         self.dir1 = dir1
